@@ -1,0 +1,21 @@
+.row-full-height {
+  height: 100%;
+}
+.col-full-height {
+  height: 100%;
+  vertical-align: middle;
+}
+
+.test{
+	width: 800;
+    height: 500;
+    border-style: solid;
+}
+
+.padRow {
+	height: 125px;
+}
+
+.menu {
+	height:250px;
+}
